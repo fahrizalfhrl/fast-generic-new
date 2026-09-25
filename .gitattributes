@@ -1,0 +1,9 @@
+*.js linguist-detectable
+
+src/**/*.js linguist-detectable   
+
+*.ico binary
+public/* linguist-vendored
+public/index.html linguist-vendored
+package-lock.json linguist-generated
+# eof cdf88d64
